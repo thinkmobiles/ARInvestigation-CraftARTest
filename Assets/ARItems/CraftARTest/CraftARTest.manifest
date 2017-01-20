@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3087033174
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: craftartest_bundle_ios
+      Dependencies: {}

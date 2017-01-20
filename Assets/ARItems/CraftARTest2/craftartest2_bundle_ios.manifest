@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2995825886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9506a559d8041a6b3ba6e27872ff3997
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef79b55503f0c3d1fd0e18e3bc5b391a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/ARItems/CraftARTest2/tmpAssetBuildDirectory/ARItem_CraftARTest2.prefab
+Dependencies: []
